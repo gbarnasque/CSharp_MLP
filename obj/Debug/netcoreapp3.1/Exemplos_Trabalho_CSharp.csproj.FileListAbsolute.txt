@@ -1,0 +1,4 @@
+C:\Users\gusta\source\repos\Exemplos_Trabalho_CSharp\obj\Debug\netcoreapp3.1\Exemplos_Trabalho_CSharp.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\Exemplos_Trabalho_CSharp\obj\Debug\netcoreapp3.1\Exemplos_Trabalho_CSharp.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Exemplos_Trabalho_CSharp\obj\Debug\netcoreapp3.1\Exemplos_Trabalho_CSharp.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Exemplos_Trabalho_CSharp\obj\Debug\netcoreapp3.1\Exemplos_Trabalho_CSharp.csproj.CoreCompileInputs.cache
